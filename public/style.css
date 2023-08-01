@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+label {
+  display: block;
+}
+
+#navbar {
+  margin: 0
+}
+
+nav a {
+  display: inline-block;
+  margin: 1em;
+}
+
+form div {
+  margin: 1em;
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+#chartComponents {
+  display: flex;
+}
